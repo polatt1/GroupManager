@@ -27,7 +27,7 @@ PM_START = """Merhaba Evlat {}, Ben {}! Yani Rıza Soylu
 Benim Ekibim @botyardim Kanalında Telegram'ın Asayişini Sağlıyoruz
 
 
-Active Anti-scam protection in your BM by this command : 
+Yeni Gelen Komut Bende Bilmiyorum Güncelleyeceğim 😂 : 
 /antiscam on 
 
 Benim Kurucum [aBBaS_YaNBaSann](t.me/aBBaS_YaNBaSann)
