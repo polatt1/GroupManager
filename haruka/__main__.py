@@ -20,22 +20,24 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Merhaba Evlat {}, Ben {}! Yani Rıza Soylu
 
-You know how hard it is sometimes to manage group so here is the solution for you
+İstanbul Asayiş Şube Genel Müdürüyüm Ve Bir Ekibim Var 
 
-I'm group manager bot and Anti-scam for RR Players🃏
+Benim Ekibim @botyardim Kanalında Telegram'ın Asayişini Sağlıyoruz
+
 
 Active Anti-scam protection in your BM by this command : 
 /antiscam on 
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+Benim Kurucum [aBBaS_YaNBaSann](t.me/aBBaS_YaNBaSann)
 
-Special thanks to [this person](t.me/denver02) for helping me.
+Sende Botumuzu Gruba Ekleyerek Asayişi Sağlayabilirsin 
+Kanallarımız:
+t.me//botyardim t.me//ayiteam t.me//ayiteamicerig t.me//pandorauserbot
+Beni Kurmak İçin [now](www.github.com/abbasyanbasan123/GroupManager)
 
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
-
-Click /help or Help button below to find out more about how to use me to my full potential.
+ /help Komutuyla Yetkilerimi Görebilirsin Evlat.
 """
 
 
