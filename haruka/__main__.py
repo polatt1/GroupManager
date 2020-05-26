@@ -20,24 +20,28 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Merhaba Evlat {}, Ben {}! Yani Rıza Soylu
+PM_START = """Merhaba {} Ben Atlantis, Üstdüzey Grup Yönetim Botuyum Kurucum @Plt01
 
-İstanbul Asayiş Şube Genel Müdürüyüm Ve Bir Ekibim Var 
 
-Benim Ekibim @botyardim Kanalında Telegram'ın Asayişini Sağlıyoruz
+Benim Ekibim @haspandora Kanalında Telegram'ın Kendilerine Ait Bot Yönetimini Sağlıyor.
 
 
 Yeni Gelen Komut Bende Bilmiyorum Güncelleyeceğim 😂 : 
 /antiscam on 
 
-Benim Kurucum [aBBaS_YaNBaSann](t.me/aBBaS_YaNBaSann)
+Benim Kurucum @Plt01
 
-Sende Botumuzu Gruba Ekleyerek Asayişi Sağlayabilirsin 
+Sende Botumuzu Gruba Ekleyerek Grubunuzun Üst Düzey Yönetimini Sağlayabilirsin 
 Kanallarımız:
-t.me//botyardim t.me//ayiteam t.me//ayiteamicerig t.me//pandorauserbot
-Beni Kurmak İçin [now](www.github.com/abbasyanbasan123/GroupManager)
+@Hastayfasohbet
+t.me//pandorauserbot
+t.me//haspandora
+t.me//botyardim
+Beni Kurmak İçin now
 
- /help Komutuyla Yetkilerimi Görebilirsin Evlat.
+BOT GÜNCELLEMERİ İÇİN KANALLARIMIZI TAKİP ETMEYİ UNUTMAYIN.
+
+ /help Komutuyla Yetkilerimi Görebilirsin.
 """
 
 
